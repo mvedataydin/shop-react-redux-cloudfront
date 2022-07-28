@@ -1,5 +1,11 @@
 # React-shop-cloudfront
 
+## CloudFront Distribution URL
+[https://d1gxx8wpdrzenv.cloudfront.net](https://d1gxx8wpdrzenv.cloudfront.net)
+
+## S3 Bucket Website
+[http://mvedataydin-epam-node-in-aws-web-bucket.s3-website-us-east-1.amazonaws.com/](http://mvedataydin-epam-node-in-aws-web-bucket.s3-website-us-east-1.amazonaws.com/)
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
@@ -15,12 +21,6 @@ This is frontend starter project for nodejs-aws mentoring program. It uses the f
 - [Eslint](https://eslint.org/) as a code linting tool
 - [Prettier](https://prettier.io/) as a code formatting tool
 - [TypeScript](https://www.typescriptlang.org/) as a type checking tool
-
-## CloudFront Distribution URL
-[d1f9hosbq6jjdg.cloudfront.net](d1f9hosbq6jjdg.cloudfront.net)
-
-## S3 Bucket Website
-[http://mvedataydin-epam-node-in-aws-web-bucket.s3-website-us-east-1.amazonaws.com/](http://mvedataydin-epam-node-in-aws-web-bucket.s3-website-us-east-1.amazonaws.com/)
 
 ## Available Scripts
 
