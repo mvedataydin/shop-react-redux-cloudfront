@@ -1,10 +1,10 @@
 # React-shop-cloudfront
 
 ## CloudFront Distribution URL
-[https://d1gxx8wpdrzenv.cloudfront.net](https://d1gxx8wpdrzenv.cloudfront.net)
+[d1sdfv0c83t751.cloudfront.net](d1sdfv0c83t751.cloudfront.net)
 
 ## S3 Bucket Website
-[http://mvedataydin-epam-node-in-aws-web-bucket.s3-website-us-east-1.amazonaws.com/](http://mvedataydin-epam-node-in-aws-web-bucket.s3-website-us-east-1.amazonaws.com/)
+[http://vedataydin-epam-node-in-aws-web-bucket.s3-website-us-east-1.amazonaws.com/](http://vedataydin-epam-node-in-aws-web-bucket.s3-website-us-east-1.amazonaws.com/)
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 

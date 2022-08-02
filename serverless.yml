@@ -4,7 +4,7 @@ provider:
   name: aws
   runtime: nodejs12.x
   # setup profile for AWS CLI.
-  profile: mvedataydin_epam
+  profile: vedataydin_epam
 
 plugins:
   - serverless-finch
@@ -15,7 +15,7 @@ plugins:
 
 custom:
   client:
-    bucketName: mvedataydin-epam-node-in-aws-web-bucket
+    bucketName: vedataydin-epam-node-in-aws-web-bucket
     distributionFolder: dist
   s3BucketName: ${self:custom.client.bucketName}
 
